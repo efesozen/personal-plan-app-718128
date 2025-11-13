@@ -1,0 +1,7 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { PlansModule } from './modules/plans/plans.module';
+import { TasksModule } from './modules/tasks/tasks.module';
+
+// Add to @Module imports array:
+// PlansModule,
+// TasksModule
